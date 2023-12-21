@@ -1,0 +1,3 @@
+comfig:
+  info: "master branch,springcloud-config/config/config-dev.yml version=7"
+  server.prot: 8888
